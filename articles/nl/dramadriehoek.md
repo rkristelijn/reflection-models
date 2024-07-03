@@ -49,4 +49,3 @@ De dramadriehoek biedt inzicht in destructieve interactiepatronen en toont aan h
 Voor verdere verdieping in dit onderwerp, kun je de volgende bronnen raadplegen:
 - [Karpman Drama Triangle](https://karpmandramatriangle.com/)
 - [Psychology Today - Understanding the Drama Triangle](https://www.psychologytoday.com/us/blog/the-mindful-self-express/201901/understanding-the-drama-triangle)
-ß
