@@ -1,5 +1,7 @@
 # Drama Triangle
 
+![dramatriangle](../../images/en/dramatriangle.jpg)
+
 The Drama Triangle is a psychological model developed by Stephen Karpman that describes the dynamics of conflicts and destructive relationships. The model consists of three roles: the Rescuer, the Victim, and the Persecutor. These roles form a vicious cycle in which people can become trapped.
 
 ## 5 Key Insights

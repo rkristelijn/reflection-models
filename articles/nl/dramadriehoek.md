@@ -1,5 +1,7 @@
 # Dramadriehoek
 
+![dramadriehoek](../../images/nl/dramadriehoek.jpg)
+
 De dramadriehoek is een psychologisch model ontwikkeld door Stephen Karpman dat de dynamiek van conflicten en destructieve relaties beschrijft. Het model bestaat uit drie rollen: de Redder, het Slachtoffer, en de Aanklager. Deze rollen vormen een vicieuze cirkel waarin mensen vast kunnen komen te zitten.
 
 ## 5 Belangrijkste Inzichten
