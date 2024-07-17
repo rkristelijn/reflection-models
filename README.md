@@ -1,5 +1,7 @@
 # reflection-models
 
+This a work-in-progress collection of reflection models.
+
 ## Nederlands
 
 <table>
