@@ -1,1 +1,15 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pLbSlC0Pucw?si=5LT8uO4k68XgmISy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+# Interesting Videos
+
+- [The Nature of Reality: A Dialogue Between a Buddhist Scholar and a Theoretical Physicist](https://youtu.be/pLbSlC0Pucw?si=xqUSUbsXJG56ctA5)
+- [When PROBLEMS Are Beyond Your CONTROL ........](https://youtu.be/1kLZJeFNP94?si=nS1PbSOuJ91i50or)
+- [https://youtu.be/1kLZJeFNP94?si=nS1PbSOuJ91i50or](https://youtu.be/ReRcHdeUG9Y?si=C3ymc5vF5ucsOqyJ)
+- [31 logical fallacies in 8 minutes](https://youtu.be/Qf03U04rqGQ?si=AtBrrYQlgP1jy1Gf)
+- [12 Cognitive Biases Explained - How to Think Better and More Logically Removing Bias](https://youtu.be/wEwGBIr_RIw?si=LVD_ZvSNZWjnr2sm)
+- [Six Patterns of Defensive Communication: Sharon Strand Ellison](https://youtu.be/8ixdM2_-5M0?si=uc8YqAasmlk-SXyJ)
+- [Cultivating Collaboration: Don't Be So Defensive! | Jim Tamm | TEDxSantaCruz](https://youtu.be/vjSTNv4gyMM?si=JB2OduC6YmXc3i-I)
+- [Government Explained](https://youtu.be/EUS1m5MSt9k?si=4lWuZOQwYDj7gH-l)
+- [David Hawkins Theories Explained | Part 1 | Truth, The Map of Consciousness](https://youtu.be/QBxVzTphkik?si=iOzrO5OLGPMnpYE7)
+- [The Map of Consciousness: How Emotions Create Reality I David Hawkins](https://youtu.be/ibnFTrpA_RY?si=VoFRN7ngrEQmOqXR)
+- [Shadow work: when nothing is working, do this.](https://youtu.be/vJxaKuPxcNQ?si=QxTqj1SKmUA4h1tw)
+- [21 Mind Traps : The Ultimate Guide to your most common Thinking errors](https://youtu.be/nYYkRaU0xh8?si=Zi_KIHa6ukyaDQHL)
+- [Everything is Energy | Once You Learn To Vibrate CORRECTLY, Reality is YOURS.](https://youtu.be/_lnG0rDyXCg?si=WOkopKvC9d2BX8RV)
