@@ -8,17 +8,17 @@ This a work-in-progress collection of reflection models.
     <tr>
         <td>
             <a href="./articles/nl/dramadriehoek.md">
-                <img src="./images/nl/dramadriehoek.jpg" alt="Dramadriehoek" width="300px">
+                <img src="./images/nl/dramadriehoek.jpg" alt="Dramadriehoek" height="300px">
             </a>
         </td>
         <td>
           <a href="./articles/nl/eisenhouwer-matrix.md">
-            <img src="./images/nl/eisenhouwer-matrix.jpg" alt="Eisenhouwer Matrix" width="300px">
+            <img src="./images/nl/eisenhouwer-matrix.jpg" alt="Eisenhouwer Matrix" height="300px">
             </a>
         </td>
         <td>
         <a href="./articles/nl/social-styles.md">
-            <img src="./images/nl/social-styles.jpg" alt="Social Styles" width="300px">
+            <img src="./images/nl/social-styles.jpg" alt="Social Styles" height="300px">
             </a>
         </td>
     </tr>
@@ -53,8 +53,8 @@ This a work-in-progress collection of reflection models.
 
 <table>
     <tr>
-        <td><img src="./images/en/dramatriangle.jpg" alt="Dramatriangle" width="300px"></td>
-        <td><img src="./images/en/eisenhouwer-matrix.jpg" alt="Eisenhouwer Matrix" width="300px"></td>
-        <td><img src="./images/en/social-styles.jpg" alt="Social Styles" width="300px"></td>
+        <td><img src="./images/en/dramatriangle.jpg" alt="Dramatriangle" height="300px"></td>
+        <td><img src="./images/en/eisenhouwer-matrix.jpg" alt="Eisenhouwer Matrix" height="300px"></td>
+        <td><img src="./images/en/social-styles.jpg" alt="Social Styles" height="300px"></td>
     </tr>
 </table>
