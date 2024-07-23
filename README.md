@@ -12,10 +12,14 @@ This a work-in-progress collection of reflection models.
             </a>
         </td>
         <td>
+          <a href="./articles/nl/eisenhouwer-matrix.md">
             <img src="./images/nl/eisenhouwer-matrix.jpg" alt="Eisenhouwer Matrix" width="300px">
+            </a>
         </td>
         <td>
+        <a href="./articles/nl/social-styles.md">
             <img src="./images/nl/social-styles.jpg" alt="Social Styles" width="300px">
+            </a>
         </td>
     </tr>
     <tr>
