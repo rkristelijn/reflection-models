@@ -23,7 +23,7 @@ This a work-in-progress collection of reflection models.
         </td>
     </tr>
     <tr>
-      <td>80/20 regel</td>
+      <td><a href="./articles/nl/pareto-principle.md"><img src="./images//nl/pareto-principle.jpg" height="300px"> </a></td>
       <td>roos van learey</td>
       <td>spiral dynamics</td>
     </tr>
