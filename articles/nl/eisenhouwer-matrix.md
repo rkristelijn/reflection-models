@@ -63,3 +63,9 @@ Je zit op het werk en je wordt gevraagd een probleem op te lossen in een systeem
 - Is het belangrijk? Het is voor het bedrijf belangrijk dat het wordt opgelost, een ander team zou het moeten oppakken, maar ik wil ook een betrouwbare collega zijn.
 
 Om de Eisenhouwer matrix goed te kunnen gebruiken heb je eerst een model nodig wat voor jou belangrijk is. Als je weet wat voor jou persoonlijk belangrijk is, dan pas kun je de matrix goed inzetten.
+
+## Quadrant 4: niet urgent, niet belangrijk
+
+Je kunt natuurlijk niet tegen je baas zeggen: dit is niet urgent en niet belangrijk voor mij.
+
+Zeg op je werk niet dat je iets niet gaat doen, maar zet het gewoon onderaan je takenlijst. Check met je leidinggevende in welke volgorde je het gaat doen. Als dan die taak te lang blijft liggen, dan regelt je leidinggevende het wel met iemand anders.
